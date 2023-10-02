@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" modified="2023-10-02T14:49:56.054Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3Z_eDDnMTxRfTQL7UnAE" version="22.0.0" type="github">
+  <diagram name="Page-1" id="2S8wYuEXz-IoH_Neu6Ck">
+    <mxGraphModel dx="2039" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-1" value="SEM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-2" value="E-Beam" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-3" value="Stage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-19" value="SPARC Configuration" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="70" width="1250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-20" value="PMT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-21" value="Polarizer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-22" value="Module config" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="160" width="770" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-23" value="Fiber Coupling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-24" value="UV/VisNIR/IR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-25" value="FSLM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-26" value="FPLM/ELIM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="930" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-27" value="SEM Config" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-28" value="Camera Config" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-29" value="Camera" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-30" value="Spectrometer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="200" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-31" value="Detector" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-32" value="Mirror" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-33" value="Mirror-xy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="520" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-34" value="Scan-stage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IQdCbjFeyOEhURN7PlrG-35" value="Ebic-detector" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="120" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
